@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>翻译 on 知行小课</title><link>http://zhixingxiaoke.github.io/docs/translations/</link><description>Recent content in 翻译 on 知行小课</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><atom:link href="http://zhixingxiaoke.github.io/docs/translations/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>翻译 on 知行小课</title><link>http://zhixingxiaoke.github.io/docs/translations/</link><description>Recent content in 翻译 on 知行小课</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><atom:link href="http://zhixingxiaoke.github.io/docs/translations/index.xml" rel="self" type="application/rss+xml"/><item><title>RFC761 TCP 协议中文翻译</title><link>http://zhixingxiaoke.github.io/docs/translations/rfc761/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://zhixingxiaoke.github.io/docs/translations/rfc761/</guid><description>RFC761 TCP 协议中文翻译 # 这是 RFC 上较早关于 TCP 协议标准的文档，站在现在的角度来看，它可能不是很准确或者不是很完整，但是非常有学习价值。
+原文： DoD standard Transmission Control Protocol
+封面 # RFC(Request for Comments): 761
+IEN(Internet Experiment Note): 129
+DOD STANDARD
+美国国防部标准
+TRANSMISSION CONTROL PROTOCOL TCP 协议 January 1980 1980 年 1 月
+prepared for
+Defense Advanced Research Projects Agency
+国防高级研究计划局
+Information Processing Techniques Office
+信息处理技术办公室
+1400 Wilson Boulevard
+威尔逊大道 1400 号 Arlington, Virginia 22209
+弗吉尼亚州阿灵顿 22209
+by
+Information Sciences Institute
+信息科学研究所
+University of Southern California 南加州大学</description></item></channel></rss>
