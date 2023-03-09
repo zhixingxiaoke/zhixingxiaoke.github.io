@@ -16,4 +16,21 @@ Information Processing Techniques Office
 by
 Information Sciences Institute
 信息科学研究所
-University of Southern California</description></item></channel></rss>
+University of Southern California</description></item><item><title>RFC793 TCP 协议中文翻译</title><link>http://zhixingxiaoke.github.io/docs/translations/rfc793/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://zhixingxiaoke.github.io/docs/translations/rfc793/</guid><description>RFC793 TCP 协议中文翻译 # 这是 RFC 上比较经典关于 TCP 协议标准的文档，它优化了 RFC761 提出的 TCP 规范，并在很长一段时间内作为 TCP 标准的参考文档，如果对 RFC761 感兴趣可以参考 RFC761 TCP 协议中文翻译。
+原文： Transmission Control Protocol
+封面 # TRANSMISSION CONTROL PROTOCOL
+TCP 协议
+DARPA INTERNET PROGRAM
+DARPA 互联网项目
+PROTOCOL SPECIFICATION
+协议规范
+September 1981
+1981 年 9 月
+prepared for
+Defense Advanced Research Projects Agency
+国防高级研究计划局
+Information Processing Techniques Office
+信息处理技术办公室
+1400 Wilson Boulevard
+威尔逊大道 1400 号 Arlington, Virginia 22209
+弗吉尼亚州阿灵顿 22209</description></item></channel></rss>
