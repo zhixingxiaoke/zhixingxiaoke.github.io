@@ -1,4 +1,4 @@
-baseURL = 'http://zhixingxiaoke.github.io/'
+baseURL = 'http://x.zhixing.io/'
 languageCode = 'zh-cn'
 title = '知行小课'
 theme = 'hugo-book'
