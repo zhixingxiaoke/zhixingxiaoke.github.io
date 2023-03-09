@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>翻译 on 知行小课</title><link>http://zhixingxiaoke.github.io/docs/translations/</link><description>Recent content in 翻译 on 知行小课</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><atom:link href="http://zhixingxiaoke.github.io/docs/translations/index.xml" rel="self" type="application/rss+xml"/><item><title>RFC761 TCP 协议中文翻译</title><link>http://zhixingxiaoke.github.io/docs/translations/rfc761/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://zhixingxiaoke.github.io/docs/translations/rfc761/</guid><description>RFC761 TCP 协议中文翻译 # 这是 RFC 上较早关于 TCP 协议标准的文档，站在现在的角度来看，它可能不是很准确或者不是很完整，但是非常有学习价值。
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>翻译 on 知行小课</title><link>http://zhixingxiaoke.github.io/docs/translations/</link><description>Recent content in 翻译 on 知行小课</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><atom:link href="http://zhixingxiaoke.github.io/docs/translations/index.xml" rel="self" type="application/rss+xml"/><item><title>RFC761 DoD standard TCP 协议</title><link>http://zhixingxiaoke.github.io/docs/translations/rfc761/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://zhixingxiaoke.github.io/docs/translations/rfc761/</guid><description>RFC761 TCP 协议中文翻译 # 这是 RFC 上较早关于 TCP 协议标准的文档，站在现在的角度来看，它可能不是很准确或者不是很完整，但是非常有学习价值。
 原文： DoD standard Transmission Control Protocol
 封面 # RFC(Request for Comments): 761
 IEN(Internet Experiment Note): 129
@@ -16,7 +16,7 @@ Information Processing Techniques Office
 by
 Information Sciences Institute
 信息科学研究所
-University of Southern California</description></item><item><title>RFC793 TCP 协议中文翻译</title><link>http://zhixingxiaoke.github.io/docs/translations/rfc793/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://zhixingxiaoke.github.io/docs/translations/rfc793/</guid><description>RFC793 TCP 协议中文翻译 # 这是 RFC 上比较经典关于 TCP 协议标准的文档，它优化了 RFC761 提出的 TCP 规范，并在很长一段时间内作为 TCP 标准的参考文档，如果对 RFC761 感兴趣可以参考 RFC761 TCP 协议中文翻译。
+University of Southern California</description></item><item><title>RFC793 TCP 协议</title><link>http://zhixingxiaoke.github.io/docs/translations/rfc793/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://zhixingxiaoke.github.io/docs/translations/rfc793/</guid><description>RFC793 TCP 协议中文翻译 # 这是 RFC 上比较经典关于 TCP 协议标准的文档，它优化了 RFC761 提出的 TCP 规范，并在很长一段时间内作为 TCP 标准的参考文档，如果对 RFC761 感兴趣可以参考 RFC761 TCP 协议中文翻译。
 原文： Transmission Control Protocol
 封面 # TRANSMISSION CONTROL PROTOCOL
 TCP 协议
